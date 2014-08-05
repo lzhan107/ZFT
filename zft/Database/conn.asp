@@ -1,0 +1,5 @@
+<%
+     Set conn=Server.CreateObject("ADODB.Connection")
+     Providerstr="Driver={Microsoft Access Driver (*.mdb)};DBQ=" & server.mappath("../Database/×¢²áÐÅÏ¢.mdb")
+     conn.Open Providerstr
+%>

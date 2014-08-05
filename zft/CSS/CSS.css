@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+a{text-decoration:none}
+
+a.channel0:link { color: #FFF; }
+a.channel0:visited { color: #FFF;}
+a.channel0:hover { color: #FFF; font-weight:bold; }
+a.channel0:active { color: #FFF; }
+
+a.channel1:link { color: #333; }
+a.channel1:visited { color:#333;}
+a.channel1:hover { color: #999; font-weight:bold; }
+a.channel1:active { color:#333; }
+
+a.channel2:link { color: #FFF; }
+a.channel2:visited { color: #FFF;}
+a.channel2:hover { color: #FFF;}
+a.channel2:active { color: #FFF; }
+
+a.channel3:link { color:#484848; }
+a.channel3:visited { color:#484848;}
+a.channel3:hover { color: #999; font-weight:lighter; }
+a.channel3:active { color:#484848; }
+
+.top{
+	border-bottom:solid #000 1px;
+	width:510px;
+	float:right;
+	text-align:center;
+}
+.link{
+	border-bottom:#C8000B solid 1px;
+}
+.link_invest{
+	border-bottom: #649FD9 solid 1px;
+}
+.main{
+	width:970px;
+	height:850px;
+}
+.mainstyle{
+	width:970px;
+	height:970px;
+}
+.bottom{
+	bottom:-590px;
+	position:absolute;
+	left:140px;
+}
+.bottom_i{
+	bottom:-450px;
+	position:absolute;
+	left:135px;
+}
+.index{
+	border-bottom:#C8000B solid 2px;
+}
+.fontstyle1{
+	font-size:13px;
+}
+.fontstyle2{
+	font-size:13px;
+	color:#FFF;
+}
+.fontstyle3{
+	font-size:14px;
+	color: #F00;
+}
+.fontstyle4{
+	color:#C8000B;
+	font-family:"华文琥珀";
+	font-size:30px;
+}
+.fontstyle5{
+	font-size:14px;
+	color: #484848;
+}
+.news{
+    background-color:#CCCCCC;
+	color: #4B96E0;
+}
+.service{
+	border-bottom:#C8000B solid 2px;
+}
+.left{
+	float:left;
+	width:250px;
+	margin-left:15px;
+	margin-top:10px;
+	text-align:left;
+	border-right:#CCC solid 1px;
+}
+.right{
+	float:left;
+	width:auto;
+	margin-left:40px;
+	margin-right:15px;
+	margin-top:10px;
+	text-align:center;
+}
+.series{
+	width:auto;
+	margin-left:15px;
+	margin-right:15px;
+}
+.clear{
+	clear:both;
+}
+.tablestyle{
+	color:#548DD4;
+	font-size:13px;
+	background-color:#F2F2F2;
+}
+.p_txt{
+	line-height:28px;
+	font-size:14px;
+	color: #484848;
+}
+.p_s{
+	line-height:24px;
+	font-size:13px;
+	color: #484848;
+}
+.pre_text{
+	line-height:28px;
+	font-size:14px;
+	color: #484848;
+	white-space: normal; 
+	word-wrap: break-word;
+}
+.step{
+	line-height:22px;
+	font-size:14px;
+	color: #484848;
+}
+.agree{
+	border:solid #484848 1px;
+	height:auto;
+	font-size:14px;
+	color:#484848;
+	line-height:22px;
+}
+.invest{
+	border-bottom: #649FD9 solid 2px;
+}
